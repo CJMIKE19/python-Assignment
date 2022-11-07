@@ -1,0 +1,6 @@
+value1 = int(input("Enter a number: "))
+value2 = int(input("Enter a number: "))
+print(f"Sum of {value1} and {value2} is {value1+value2}")
+print(value1-value2)
+print(value1*value2)
+print(value1/value2)
